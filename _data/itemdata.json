@@ -30539,7 +30539,7 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "sewagePipeStuff": {
+  "airPipe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30579,7 +30579,7 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "airPipe": {
+  "sewagePipeStuff": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
