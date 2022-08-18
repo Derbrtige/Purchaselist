@@ -271,7 +271,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "wildmanj": {
+  "wildman": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

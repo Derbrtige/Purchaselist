@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 5000,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -108,11 +108,6 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 500,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -171,7 +166,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildmanj",
+		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good"
 	},
@@ -197,7 +192,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -332,17 +327,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2800,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 12000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +347,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2100,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -377,12 +372,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2100,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -437,7 +432,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 50000,
+		"price": 100000,
 		"karmatype": "Good"
 	},
 	{
@@ -543,12 +538,12 @@
 	{
 		"abr": "hostiletraveler",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hostilecaravan",
 		"price": 700,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "iceage",
@@ -562,7 +557,7 @@
 	},
 	{
 		"abr": "psychicrain",
-		"price": 15000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
@@ -572,7 +567,7 @@
 	},
 	{
 		"abr": "psychicbloom",
-		"price": 4000,
+		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -618,7 +613,7 @@
 	{
 		"abr": "cropsprout",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "battleanimals",
@@ -636,5 +631,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 127
+	"total": 126
 }
