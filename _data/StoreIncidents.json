@@ -337,17 +337,17 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -372,12 +372,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
@@ -434,32 +434,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "hailstorm",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "earthquake",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "drought",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "huntingparty",
-		"price": 500,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 92
+	"total": 87
 }
