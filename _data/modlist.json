@@ -1,13 +1,13 @@
 [
   {
-    "author": "Indeed",
-    "name": "Stack XXL",
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
+    "author": "Falconne",
+    "name": "Heat Map",
     "steamId": null,
     "version": null
   },
@@ -18,92 +18,8 @@
     "version": null
   },
   {
-    "author": "AgentBlac",
-    "name": "1.4 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Almost There!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Soil Contrast",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Meltup",
-    "name": "Beautiful Outdoors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zymex",
-    "name": "Dirt Paths",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "Don't Block Door",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fuglypump",
-    "name": "Job Splitter",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.5]",
     "steamId": null,
     "version": null
   },
@@ -114,20 +30,8 @@
     "version": null
   },
   {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SGC",
-    "name": "Quest Reward Rebalance",
+    "name": "CleaningArea",
     "steamId": null,
     "version": null
   },
@@ -144,38 +48,20 @@
     "version": null
   },
   {
-    "author": "BaalEvan",
-    "name": "Turret Hunt",
+    "author": "Indeed",
+    "name": "Stack XXL",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map",
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GassyTaco",
-    "name": "Prisoner Harvesting",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
+    "author": "zymex",
+    "name": "Dirt Paths",
     "steamId": null,
     "version": null
   },
@@ -186,26 +72,44 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Just Ignore Me Passing",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
+    "author": "Wemd",
+    "name": "[WD] Soil Contrast",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ellit",
-    "name": "El's Archeology",
+    "author": "Roolo",
+    "name": "Almost There!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AgentBlac",
+    "name": "1.4 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
     "steamId": null,
     "version": null
   }
