@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -82,12 +77,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
@@ -108,6 +103,11 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -327,27 +327,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 10000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1500,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -372,12 +372,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2200,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 6000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -417,12 +417,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
