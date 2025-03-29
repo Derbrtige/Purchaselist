@@ -9,7 +9,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
@@ -42,34 +42,10 @@
     "version": null
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "dhultgren",
     "name": "Use Minified Buildings",
     "steamId": "2185809028",
     "version": "1.4.1.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
   },
   {
     "author": "Avius and Hazzer",
@@ -204,12 +180,6 @@
     "version": "0.9.0"
   },
   {
-    "author": "RemingtonRyder",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.8884.37791"
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -291,7 +261,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8911.30668"
+    "version": "1.0.9113.26296"
   },
   {
     "author": "Fluffy",
@@ -303,7 +273,7 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
-    "version": "2.7.4"
+    "version": "2.7.4+13335c18c5424729d48298958c20a420a57228cd"
   },
   {
     "author": "UnlimitedHugs",
@@ -384,12 +354,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "JBloodthorn",
     "name": "No Lazy Doctors",
     "steamId": null,
@@ -414,12 +378,6 @@
     "version": null
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
-  },
-  {
     "author": "tofudriver",
     "name": "Medical Tab - Forked",
     "steamId": "3228889251",
@@ -429,12 +387,72 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.15"
+    "version": "1.5.25"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.15.3.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pureMJ",
+    "name": "Animal Resource Label",
+    "steamId": "2805166831",
+    "version": "0.3.0"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ellit",
+    "name": "El's Archeology",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]
