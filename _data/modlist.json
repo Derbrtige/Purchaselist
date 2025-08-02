@@ -3,13 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
+    "version": "2.3.4.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.5"
+    "version": "12.0.0"
   },
   {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
@@ -27,13 +27,13 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.1.0.0"
+    "version": "4.1.0.0"
   },
   {
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
-    "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
+    "version": "1.0.0+124dfea3ab8311d5b8aa89b8a8b68628dd5385ea"
   },
   {
     "author": "Haplo",
@@ -51,19 +51,19 @@
     "author": "Avius and Hazzer",
     "name": "Locks",
     "steamId": "1157085076",
-    "version": "2.9.1"
+    "version": "3.0.4"
   },
   {
     "author": "Ratys",
     "name": "Mad Skills",
     "steamId": "731111514",
-    "version": "2.7.0.0"
+    "version": "2.8.0.0"
   },
   {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.8838.32721"
+    "version": "1.0.9293.37478"
   },
   {
     "author": "Dubwise",
@@ -99,7 +99,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
   },
   {
     "author": "Avius and Hazzer",
@@ -111,7 +111,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.5.2"
+    "version": "1.6.0"
   },
   {
     "author": "Hatti",
@@ -134,14 +134,8 @@
   {
     "author": "Fluffy",
     "name": "Relations Tab",
-    "steamId": "709317151",
-    "version": "2.6.72"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -177,7 +171,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.9.0"
+    "version": "0.9.1"
   },
   {
     "author": "Linkolas",
@@ -195,7 +189,7 @@
     "author": "Scherub",
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
-    "version": "1.6.0+dd0f8eb4b330bb7a72b94713ab8b965f9d2320df"
+    "version": "1.11.0+4df6a2b8e11df0d37e3725364b7bedd18129b037"
   },
   {
     "author": "Uuugggg",
@@ -223,27 +217,15 @@
   },
   {
     "author": "Uuugggg",
-    "name": "TD Find Lib",
-    "steamId": "2895299310",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
     "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
   },
   {
     "author": "zymex",
@@ -261,7 +243,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9113.26296"
+    "version": "1.0.9332.29106"
   },
   {
     "author": "Fluffy",
@@ -273,7 +255,7 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
-    "version": "2.7.4+13335c18c5424729d48298958c20a420a57228cd"
+    "version": "2.8.0+1612082e563678ddb9dcfdf730261f1b49f5e87d"
   },
   {
     "author": "UnlimitedHugs",
@@ -294,26 +276,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "TDS Bug Fixes",
-    "steamId": "2895035527",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Doormats",
-    "steamId": "1508778962",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Set Up Camp",
-    "steamId": "1470065926",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Wemd",
-    "name": "[WD] Soil Contrast",
+    "name": "Soil Contrast",
     "steamId": null,
     "version": null
   },
@@ -321,7 +285,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.9.5.0"
+    "version": "4.1.1.0"
   },
   {
     "author": "Roolo",
@@ -387,13 +351,13 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.25"
+    "version": "1.6.1"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.15.3.0"
+    "version": "1.16.6+36c29671c10764fa702953ff7de8b52159959ead"
   },
   {
     "author": "nry",
@@ -411,13 +375,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
   },
   {
     "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
     "steamId": "3239583412",
-    "version": "1.5.0.1"
+    "version": "1.6.0.1"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -429,7 +393,7 @@
     "author": "pureMJ",
     "name": "Animal Resource Label",
     "steamId": "2805166831",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   {
     "author": "Meltup",
@@ -448,11 +412,5 @@
     "name": "Dubs Skylights",
     "steamId": "833899765",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
   }
 ]
